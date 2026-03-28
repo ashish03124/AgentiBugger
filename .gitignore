@@ -1,0 +1,36 @@
+# Node.js / Next.js
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Legacy and Large Folders
+CodeFolder/
+legacy_backup/
+
+# Virtual Environment
+venv/
+api/venv/
+
+# Python Cache
+__pycache__/
+*/__pycache__/
+
+# Configuration and Secrets
+config.env
+api/config.env
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Large Files / Binary
+*.pptm
+*.pptx
+
+# Data / Output
+output.csv
+api/server/storage/
+api/server/embedding_model/
