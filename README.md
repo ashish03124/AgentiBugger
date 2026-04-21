@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 What is AgentiBugger?
+##  What is AgentiBugger?
 
 AgentiBugger is an **agentic AI pipeline** that autonomously hunts for bugs in code samples. Unlike a simple script, it uses a multi-agent orchestration system that:
 
